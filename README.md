@@ -1,2 +1,2 @@
-# 5001FinalExam
-A simple implementation of Affine Gap
+# Algorithm
+Implementation of some classic algorithms
